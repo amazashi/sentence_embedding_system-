@@ -1,0 +1,10 @@
+sentence-transformers
+torch
+numpy
+pandas
+scikit-learn
+faiss-cpu
+tqdm
+click
+flask
+werkzeug

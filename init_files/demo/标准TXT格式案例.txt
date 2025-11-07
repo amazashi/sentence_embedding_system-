@@ -1,0 +1,29 @@
+标准TXT格式案例
+
+这是一个专门为句子嵌入系统设计的纯文本文件。每个句子都有明确的结束标点符号，便于系统识别和提取。
+
+人工智能技术正在改变我们的生活方式。机器学习算法能够从数据中学习模式。深度神经网络模拟了人脑的工作原理。
+
+自然语言处理让计算机理解人类语言。词嵌入技术将词汇映射到向量空间。句子嵌入捕捉了更高层次的语义信息。
+
+Artificial intelligence is transforming various industries. Machine learning algorithms can identify complex patterns in data. Deep neural networks consist of multiple layers of interconnected nodes.
+
+Natural language processing enables human-computer interaction. Word embeddings represent words as dense vectors. Sentence embeddings capture semantic relationships between sentences.
+
+向量数据库专门用于存储和检索高维向量。相似性搜索是向量数据库的核心功能。索引结构决定了搜索的效率和准确性。
+
+Vector databases are optimized for high-dimensional data storage. Similarity search is the primary operation in vector databases. Index structures determine search performance and accuracy.
+
+FAISS库提供了多种向量索引算法。LSH算法适用于高维稀疏向量。IVF算法通过聚类加速搜索过程。
+
+FAISS library offers various vector indexing algorithms. LSH algorithm works well with high-dimensional sparse vectors. IVF algorithm accelerates search through clustering techniques.
+
+批量处理可以提高系统的整体性能。并行计算充分利用了多核处理器的能力。缓存机制减少了重复计算的开销。
+
+Batch processing improves overall system performance significantly. Parallel computing leverages multi-core processor capabilities effectively. Caching mechanisms reduce redundant computation overhead.
+
+语义搜索超越了传统的关键词匹配。上下文理解是现代搜索系统的关键特性。个性化推荐依赖于用户行为分析。
+
+Semantic search goes beyond traditional keyword matching. Contextual understanding is crucial for modern search systems. Personalized recommendations rely on user behavior analysis.
+
+这个文件包含了24个完整的句子，展示了TXT格式的最佳实践。每个句子都有清晰的语义和正确的标点符号。

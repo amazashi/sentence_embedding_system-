@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Logs and caches
+*.log
+embedding_system.log
+
+# Databases and indexes (generated)
+*.db
+similarity_index.faiss
+similarity_index_mapping.pkl
+
+# Uploads and runtime data
+uploads/
+instance/
+init_files/literature_standard/
+
+# IDE and editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
